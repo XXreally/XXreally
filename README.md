@@ -5,6 +5,6 @@
 - 📫 How to reach me Discord:August#8868
 
 <!---
-XXreally/XXreally is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+XXreally/August is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
